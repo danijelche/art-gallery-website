@@ -70,7 +70,7 @@ header p span {
 }
 
 .description {
-     --webkit-animation: textSlide ease-out 2s;
+     -webkit-animation: textSlide ease-out 2s;
      padding: 1rem;
 }
 
@@ -268,7 +268,7 @@ button:hover {
      font-family: 'Big Shoulders Display', sans-serif;
      color: #fff;
      text-transform: uppercase;
-     --webkit-animation: textSlide ease-out 2s;
+     -webkit-animation: textSlide ease-out 2s;
 }
 
 .location-details {
