@@ -71,6 +71,7 @@ header p span {
 
 .description {
      -webkit-animation: textSlide ease-out 2s;
+     animation: textSlide ease-out 2s;
      padding: 1rem;
 }
 
@@ -269,6 +270,7 @@ button:hover {
      color: #fff;
      text-transform: uppercase;
      -webkit-animation: textSlide ease-out 2s;
+     animation: textSlide ease-out 2s;
 }
 
 .location-details {
